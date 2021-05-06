@@ -1,0 +1,31 @@
+<nav aria-label="breadcrumb">
+<ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="#">나의상품</a></li>
+    <li class="breadcrumb-item active" aria-current="page">채굴내역</li>
+</ol>
+</nav>
+
+
+
+<div class="container">
+  <h3 class="page-title">채굴 내역</h3>
+  <table class="table table-bordered table-hover">
+    <tr>
+      <th>상품코드</th>
+      <th>코인갯수</th>
+      <th>USD</th>
+      <th>상품타입</th>
+      <th>일자</th>
+    </tr>
+    
+      <tr *ngFor="let item of xmlItems">
+          <td>{{item.code}}</td>
+          <td>{{item.coin_count}}</td>
+          <td>{{item.usd}}</td>
+          <td>{{item.prod_type}}</td>
+          <td>{{item.date}}</td>
+      </tr>
+    
+    
+  </table>
+  </div>

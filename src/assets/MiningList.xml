@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MiningData>
+ 	<mining>
+		<code>PDT031</code>
+		<coin_count>0.00024300</coin_count>
+		<usd>4.66635815</usd>
+		<prod_type>메인</prod_type>
+		<date>2020-12-04 03:00:00</date>
+	</mining>
+	<mining>
+		<code>PDT041</code>
+		<coin_count>0.00026300</coin_count>
+		<usd>4.66635815</usd>
+		<prod_type>메인</prod_type>
+		<date>2020-12-04 15:00:00</date>
+	</mining>
+	<mining>
+		<code>PDT032</code>
+		<coin_count>0.00034300</coin_count>
+		<usd>4.66635815</usd>
+		<prod_type>메인</prod_type>
+		<date>2020-12-05 03:00:00</date>
+	</mining>
+	<mining>
+		<code>PDT033</code>
+		<coin_count>0.00014300</coin_count>
+		<usd>4.66635815</usd>
+		<prod_type>메인</prod_type>
+		<date>2020-12-01 03:00:00</date>
+	</mining>
+	<mining>
+		<code>PDT031</code>
+		<coin_count>0.00064300</coin_count>
+		<usd>4.66635815</usd>
+		<prod_type>메인</prod_type>
+		<date>2020-12-02 03:00:00</date>
+	</mining>
+</MiningData>
